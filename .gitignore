@@ -1,0 +1,5 @@
+﻿# Visual Studio Intermediate
+.vs
+*/obj/**
+Binaries
+*/appsettings.Development.json
